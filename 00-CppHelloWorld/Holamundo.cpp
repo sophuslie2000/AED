@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "Hola mundo";
+    std::cout << "Hola Algoritmos y Estructura de Datos";
 }
